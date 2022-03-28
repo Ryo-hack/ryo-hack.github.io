@@ -8653,7 +8653,9 @@ input, select, textarea {
 		nav ul li a:hover{
 		  color:#fff; 
 		}
-
+		section{
+		  padding:30px;
+		}
 
 		section:nth-child(2n){
 		  background:#f3f3f3; 
