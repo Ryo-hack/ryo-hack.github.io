@@ -8627,39 +8627,7 @@ input, select, textarea {
 	/*========= 上部固定させるためのCSS ===============*/
 	/*========= レイアウトのためのCSS ===============*/
 
-		small{
-		  background:#333;
-		  color:#fff;
-		  display: block;
-		  text-align: center;
-		  padding:20px;
-		}
-
-		nav ul{
-		  list-style: none;
-		  display: flex;
-		  justify-content: center;
-		}
-
-		nav ul li a{
-		  display: block;
-		  text-decoration: none;
-		  color: #666;
-		  padding:10px;
-		  transition:all 0.3s;
-		}
-
-		nav ul li.current a,
-		nav ul li a:hover{
-		  color:#fff; 
-		}
-		section{
-		  padding:30px;
-		}
-
-		section:nth-child(2n){
-		  background:#f3f3f3; 
-		}
+		
 	/*========= レイアウトのためのCSS ===============*/
 
 	
