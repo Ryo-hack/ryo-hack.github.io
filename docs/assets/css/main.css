@@ -8611,7 +8611,7 @@ input, select, textarea {
   /*以下はレイアウトのためのCSS*/
   display: flex;
   justify-content: space-between;
-  /*align-items: center;*/
+  align-items: center;
   background:#708044;
   color:#fff;
   /*text-align: center;*/
@@ -8631,7 +8631,7 @@ small{
   color:#fff;
   display: block;
   /*text-align: center;*/
-  padding:20px;
+  /*padding:20px;*/
 }
 
 nav ul{
