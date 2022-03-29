@@ -8612,10 +8612,10 @@ input, select, textarea {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background:#708044;
+  background:#708044;/*ヘッダーの色*/
   color:#fff;
   /*text-align: center;*/
-  padding: 20px;
+  /*padding: 20px;*/
 }
 
 /*JSを使いfixedクラスが付与された際の設定*/
@@ -8643,14 +8643,14 @@ nav ul{
 nav ul li a{
   display: block;
   text-decoration: none;
-  color: #666;
+  color: #191919;/*文字色*/
   padding:10px;
   transition:all 0.3s;
 }
 
 nav ul li.current a,
 nav ul li a:hover{
-  color:#fff; 
+  color:#fff; /*文字色反転*/
 }
 
 
