@@ -8611,8 +8611,8 @@ input, select, textarea {
   /*以下はレイアウトのためのCSS*/
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  background:#fffef2;
+  /*align-items: center;*/
+  background:#708044;
   color:#fff;
   /*text-align: center;*/
   padding: 20px;
