@@ -8612,7 +8612,7 @@ input, select, textarea {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background:#708044;/*ヘッダーの色*/
+  background:#7f7f7f;/*ヘッダーの色*/
   color:#fff;
   /*text-align: center;*/
   /*padding: 20px;*/
@@ -8644,7 +8644,7 @@ nav ul li a{
   display: block;
   text-decoration: none;
   color: #191919;/*文字色*/
-  padding:10px;
+  /*padding:10px;*/
   transition:all 0.3s;
 }
 
